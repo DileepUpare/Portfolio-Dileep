@@ -1,11 +1,16 @@
+<<<<<<< HEAD
 ## 🎉 Project Overview
 
 My personal portfolio website built using Next.js, Tailwind CSS and Framer-motion.
 
 ## 📍 Live
+=======
 
-Link to the live version: [https://michalskolak.vercel.app](https://michalskolak.vercel.app)
+>>>>>>> 3783a1d7fc7bc7e770a440649369883eac0668cd
 
+##  Live 
+
+<<<<<<< HEAD
 ## 💾 Installation
 
 Download the project to your computer and install needed packages with command:
@@ -39,3 +44,7 @@ and open http://localhost:3000 to see this app.
 - Resend
 
 If you encounter a problem, write to this e-mail address: [skolakmichal1@gmail.com](mailto:skolakmichal1@gmail.com)
+=======
+Link to the live version:(https://)
+
+>>>>>>> 3783a1d7fc7bc7e770a440649369883eac0668cd
