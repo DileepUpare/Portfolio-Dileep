@@ -33,9 +33,9 @@ export const About = () => {
       >
         <div className="rounded-lg border border-white/10 p-6 leading-7 shadow-lg backdrop-blur-lg">
           <p className="mb-4 text-center">
-            Hi, I'm Dileep Upare, a passionate full-stack developer skilled in
-            React, Next.js, TypeScript, Node.js, and Tailwind CSS. With hands-on
-            experience in Prisma and MongoDB, I specialize in building
+            Hi, I&apos;m Dileep Upare, a passionate full-stack developer skilled
+            in React, Next.js, TypeScript, Node.js, and Tailwind CSS. With
+            hands-on experience in Prisma and MongoDB, I specialize in building
             efficient, scalable, and visually appealing solutions.
           </p>
           <p className="mb-4 text-center">
@@ -44,8 +44,8 @@ export const About = () => {
             traffic optimization and deep learning-based image segmentation.
           </p>
           <p className="text-center">
-            I'm always looking for opportunities to contribute, grow, and
-            collaborate on impactful projects. Let's connect!
+            I&apos;m always looking for opportunities to contribute, grow, and
+            collaborate on impactful projects. Let&apos;s connect!
           </p>
         </div>
       </Tilt>

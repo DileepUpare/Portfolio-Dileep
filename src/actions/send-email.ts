@@ -3,7 +3,7 @@ import { Resend } from 'resend';
 //import { env } from '../env.mjs';
 import { TFormSchema } from '@/lib/form-schema';
 
-const resend = new Resend("re_VpXMDomS_Aq7aiETNM14Kj4CSYbh76y2a");
+const resend = new Resend('re_VpXMDomS_Aq7aiETNM14Kj4CSYbh76y2a');
 
 export const sendEmail = async ({ email, message }: TFormSchema) => {
   try {
