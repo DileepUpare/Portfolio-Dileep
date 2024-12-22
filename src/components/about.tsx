@@ -1,7 +1,7 @@
 'use client';
 
-import { motion } from 'framer-motion';
 import Tilt from 'react-parallax-tilt';
+import { motion } from 'framer-motion';
 
 import { SectionHeading } from '@/components/section-heading';
 import { Skills } from '@/components/skills';
@@ -31,7 +31,7 @@ export const About = () => {
         glareColor="lightblue"
         glarePosition="bottom"
       >
-        <div className="backdrop-blur-lg rounded-lg shadow-lg border border-white/10 p-6 leading-7">
+        <div className="rounded-lg border border-white/10 p-6 leading-7 shadow-lg backdrop-blur-lg">
           <p className="mb-4 text-center">
             Hi, I’m Dileep Upare, a passionate full-stack developer skilled in
             React, Next.js, TypeScript, Node.js, and Tailwind CSS. With hands-on
