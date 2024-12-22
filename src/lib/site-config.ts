@@ -25,6 +25,6 @@ export const siteConfig = {
     'Programming',
     'Tech enthusiast',
   ],
-  url: env.SITE_URL || 'https://portfolio-dileep.vercel.com',
+  url: env.SITE_URL || 'https://portfolio-dileep.five.vercel.com',
   googleSiteVerificationId: env.GOOGLE_SITE_VERIFICATION_ID || '',
 };
