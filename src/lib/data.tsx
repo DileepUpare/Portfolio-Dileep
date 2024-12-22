@@ -27,9 +27,15 @@ export const projectsData = [
   {
     image: '/projects/BiteStation.png',
     title: 'Bite Station',
-    description:
-      'Food Ordering Application',
-    technologies: ['React.js', 'TypeScript', 'Tailwind', 'MongoDB', 'Express.js', 'Node JS'],
+    description: 'Food Ordering Application',
+    technologies: [
+      'React.js',
+      'TypeScript',
+      'Tailwind',
+      'MongoDB',
+      'Express.js',
+      'Node JS',
+    ],
     links: {
       preview: 'https://bite-station.onrender.com',
       github: 'https://github.com/DileepUpare/Bite-Station',
@@ -39,9 +45,13 @@ export const projectsData = [
   {
     image: '/projects/IEEE.png',
     title: 'Quantum Inspired Firefly Algorithm',
-    description:
-      'An Enhanced Approach to Traffic Signal Optimization.',
-    technologies: ['Quantum Algorithms', 'Traffic Optimization', 'Machine Learning', 'Meta-Heuristics'],
+    description: 'An Enhanced Approach to Traffic Signal Optimization.',
+    technologies: [
+      'Quantum Algorithms',
+      'Traffic Optimization',
+      'Machine Learning',
+      'Meta-Heuristics',
+    ],
     links: {
       preview: 'https://doi.org/10.1109/ICCCNT61001.2024.10726156',
       github: 'null',
@@ -50,9 +60,9 @@ export const projectsData = [
   },
   {
     image: '/projects/IEEE.png',
-    title: 'Comparative Analysis of U-Net, PSPNet, and FPNet (Not Published Yet)',
-    description:
-      'Deep Learning Techniques for Image Segmentation.',
+    title:
+      'Comparative Analysis of U-Net, PSPNet, and FPNet (Not Published Yet)',
+    description: 'Deep Learning Techniques for Image Segmentation.',
     technologies: ['Deep Learning', 'U-Net', 'PSPNet', 'FPNet'],
     links: {
       preview: 'https://jmp.sh/s/WbPc1doAcxxOADoCcHbU',
@@ -60,7 +70,6 @@ export const projectsData = [
       githubApi: 'https://api.github.com/repos/DileepUpare',
     },
   },
-  
 ] as const;
 
 export const experiencesData = [
@@ -74,11 +83,9 @@ export const experiencesData = [
   {
     title: 'Internship',
     location: 'KLE Technological University, Hubli, Karnataka, IN',
-    description:
-      'Interviewed for a full stack developer role.',
+    description: 'Interviewed for a full stack developer role.',
     date: '2024',
   },
-  
 ] as const;
 
 export const skillsData = [
